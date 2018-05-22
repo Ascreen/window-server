@@ -1,0 +1,6 @@
+﻿  window_server.cpp
+c:\users\ksy\desktop\win_server\window_server\window_server\window_server.cpp(95): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'FILE *'입니다.
+c:\users\ksy\desktop\win_server\window_server\window_server\window_server.cpp(97): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'FILE *'입니다.
+c:\users\ksy\desktop\win_server\window_server\window_server\window_server.cpp(99): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'FILE *'입니다.
+c:\users\ksy\desktop\win_server\window_server\window_server\window_server.cpp(101): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'FILE *'입니다.
+  window_server.vcxproj -> C:\Users\ksy\Desktop\win_server\window_server\Debug\window_server.exe
